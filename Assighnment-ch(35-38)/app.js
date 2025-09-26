@@ -45,5 +45,62 @@
 // var UserOperator = prompt("Enter an Operator")
 
 // console.log(userInput(userFirstNum, userLastNum, UserOperator));
-
 // ______________Q5
+// function calculateSquare(x){
+//     // return x*x
+//     return x**2
+// }
+// console.log(calculateSquare(6));
+
+// ______________Q6
+// function factorial(n){
+//     var result = 1
+//     for(var i=1;i<=n;i++){
+//         result *=i
+//     }
+//    return result
+// }
+// document.write(factorial(Number(prompt("Enter a number"))))
+// ______________Q7
+
+// function factorial(num1,num2){
+//        result = ""
+//         for(num1;num1<=num2;num1++){
+//             result += num1
+//         }
+//         console.log(result + "<br>");
+//        return result
+//     }
+//     var firstNum = Number(prompt("Enter a Number"))
+//     var SecNum = Number(prompt("Enter a Sec Number"))
+// factorial(firstNum,SecNum);
+//______________OR
+// function factorial(a,b){
+//     for(i=a; i<=b;i++){
+//         console.log(i);
+//     }
+
+// }
+//     factorial(1,20)
+
+// ______________Q8
+
+// function calculateHyp(base,perp){
+//     function calculateSquare(x){
+//             // return x*x
+//             return x**2
+//         } 
+//         var Hyp= calculateSquare(base)+calculateSquare(perp)
+// return Hyp
+// }
+// console.log(calculateHyp(10,5));
+
+// ______________Q9
+// function calculateArea(w,h){
+//     return w*h
+// }
+// console.log(calculateArea(10,5));//_______oR
+// var width = 30
+// height = 10
+// console.log(calculateArea(width,height));
+//_______________Q10
